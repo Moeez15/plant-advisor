@@ -2,7 +2,7 @@
 
 A conversational AI agent that gives grounded, season-aware care advice for houseplants. Powered by **Llama 3.3 70B** via Groq and built with a tool-calling agentic loop — not just a chatbot.
 
-![Plant Advisor UI](docs/screenshot.png)
+![Plant Advisor UI](docs/plantAdvisor.png)
 
 ---
 
